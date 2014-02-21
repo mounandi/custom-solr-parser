@@ -7,9 +7,11 @@ This jar need to be in the lib directory of your solr installation.
 Solr config needs to be updated with the following section 
 Also check the the guideline in Solr wiki for creating and using solr query parser  plugin.
 
---Following is a sample config for the custom parser in Solrconfig.xml ---
+Following is a sample config for the custom parser in Solrconfig.xml
 
-<queryParser name="ndqueryparser" class="org.apache.solr.search.PreAnalyzedQParserPlugin">
+ 
+ 
+  <queryParser name="ndqueryparser" class="org.apache.solr.search.PreAnalyzedQParserPlugin">
         <str name="modelsPath">/home/solradmin/solr/latest/resources/</str>
         <str name="synonymsPath">/home/solradmin/solr/latest/resources/synonyms.txt </str> <!--path to synonyms.txt file-->
         <str name="mappingsPath">/home/solradmin/solr/latest/resources/mapping-ISOLatin1Accent.txt</str><!--path to mapping-ISOLatin1Accent.txt file-->
