@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/src/test/resources/models/en
+END
+en-sent.bin
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/src/test/resources/models/en/en-sent.bin
+END
+en-token.bin
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/src/test/resources/models/en/en-token.bin
+END

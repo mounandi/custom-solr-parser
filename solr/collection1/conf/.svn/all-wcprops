@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/customers/!svn/ver/11094/NetDocuments/NDSolrQueryParser/solr/collection1/conf
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/elevate.xml
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/protwords.txt
+END
+mapping-FoldToASCII.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/mapping-FoldToASCII.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/stopwords.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/customers/!svn/ver/11094/NetDocuments/NDSolrQueryParser/solr/collection1/conf/schema.xml
+END
+currency.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/currency.xml
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/spellings.txt
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/customers/!svn/ver/9756/NetDocuments/NDSolrQueryParser/solr/collection1/conf/solrconfig.xml
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/customers/!svn/ver/6474/NetDocuments/NDSolrQueryParser/solr/collection1/conf/mapping-ISOLatin1Accent.txt
+END
